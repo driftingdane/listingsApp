@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="efddfb49-16ab-4a0c-ab41-c2a6425cf6e5" name="listingsapp" url="https://craftingdev.com/listingsapp">
+        <fileTransfer host="185.224.139.235" port="22" rootFolder="/var/www/craftingdev.com/listingsapp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

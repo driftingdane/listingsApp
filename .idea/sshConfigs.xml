@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="185.224.139.235" id="ed808f88-cd85-414e-8e6a-ea0377bd7701" port="22" customName="listingsapp" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="185.224.139.235" id="5ad26ced-f6a5-455c-a3c8-2eb651bae7dc" port="22" customName="listingsapp" nameFormat="CUSTOM" username="root" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2c9640b7-ff2b-4369-aa21-df68754a796b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/af851052-92ca-4818-8674-8106295de4f9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b8f35db2-94fe-4694-8549-f610e9855c38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b8f35db2-94fe-4694-8549-f610e9855c38/storage_v2/_src_/database/listingsApp.MiFlIw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b8f35db2-94fe-4694-8549-f610e9855c38/storage_v2/_src_/database/listingsApp.MiFlIw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/js/all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/js/brands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/js/brands.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/js/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/js/regular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/less/_icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/less/_screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/less/_stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/less/_variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/less/regular.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/metadata/shims.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/metadata/sponsors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/scss/_shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/sprites/brands.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/sprites/regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/adversal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/amazon-pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/artstation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/atlassian.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/avianex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/aws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/blogger-b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/cc-diners-club.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/cc-jcb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/cc-paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/cpanel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/creative-commons-sampling-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/cuttlefish.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/deezer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/delicious.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/diaspora.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/edge-legacy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/flipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/fly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/font-awesome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/fonticons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/foursquare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/free-code-camp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/git-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/github-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/gitlab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/gitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/google-plus-g.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/grunt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/itch-io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/itunes-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/jira.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/js-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/jsfiddle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/kaggle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/korvue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/leanpub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/linux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/magento.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/medapps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/medium-m.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/meetup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/node.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/npm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/nutritionix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/odnoklassniki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/old-republic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/optin-monster.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/page4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/palfed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/patreon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/pied-piper-hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/pinterest-p.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/quinscape.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/reddit-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/reddit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/renren.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/rust.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/sass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/sellcast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/sellsy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/shirtsinbulk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/slack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/snapchat-ghost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/staylinked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/studiovinari.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/symfony.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/tencent-weibo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/the-red-yeti.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/themeco.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/themeisle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/trade-federation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/twitch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/umbraco.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/unsplash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/viacoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/vimeo-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/vuejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/weebly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/weibo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/whmcs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/wolf-pack-battalion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/wpressr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/xbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/brands/yammer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/calendar-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/caret-square-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/dizzy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/dot-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/file-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/file-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/file-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/folder-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/font-awesome-logo-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/frown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/gem.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/grin-squint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/grin-stars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/hand-peace.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/hand-point-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/hand-spock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/hdd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/hospital.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/smile-wink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/sticky-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/surprise.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/times-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/regular/window-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/align-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/allergies.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/angle-double-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/angle-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/angle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/arrow-alt-circle-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/arrow-circle-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/arrows-alt-v.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/asterisk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/atlas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/atom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/baby-carriage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/backspace.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/bacon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/bacteria.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/balance-scale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/bars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/battery-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/birthday-cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/blind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/braille.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/calendar-times.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/candy-cane.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/car-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/caravan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/caret-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/certificate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chalkboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chart-area.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chart-line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/check-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chess-knight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chess-queen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/chevron-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/church.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/clipboard-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/clone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/closed-captioning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/cloud-showers-heavy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/coins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/comment-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/comment-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/comment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/comments-dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/cookie-bite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/crow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/cut.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/deaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/dice-two.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/divide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/dizzy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/dragon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/ellipsis-h.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/envelope-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/envelope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/equals.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/fast-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/feather.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-archive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-contract.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-medical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-prescription.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-signature.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/file-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/fingerprint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/fist-raised.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/flask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/flushed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/gem.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/ghost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/glass-martini-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/globe-asia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/golf-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/greater-than.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/grin-squint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/grin-tongue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/grin-wink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/grip-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hamburger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hand-holding-medical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hand-rock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hashtag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hat-cowboy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/head-side-cough.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/headphones-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/headset.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/horse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/hourglass-start.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/ice-cream.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/id-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/igloo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/laptop-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/laugh-beam.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/layer-group.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/long-arrow-alt-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/map-signs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/mars-stroke-h.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/mask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/medkit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/microphone-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/mobile-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/money-bill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/mountain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/paragraph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/passport.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/peace.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/pen-nib.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/pencil-ruler.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/percent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/percentage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/pizza-slice.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/play-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/pound-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/prescription-bottle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/quote-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/quote-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/rainbow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/record-vinyl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/ruler-combined.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/running.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sad-tear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/satellite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/search-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/search-minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/server.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/shipping-fast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sign-language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sim-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sleigh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sort-alpha-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sort-numeric-down-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/sort-numeric-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/space-shuttle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/spray-can.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/star-of-life.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/stethoscope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/store-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/stream.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/street-view.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/stroopwafel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/swimming-pool.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/text-width.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/thermometer-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/thermometer-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/thumbtack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/times-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/tint-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/tired.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/toggle-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/toilet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/tram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/transgender-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/transgender.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/trash-restore-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/umbrella-beach.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/umbrella.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-graduate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-md.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/user-tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/virus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/volume-mute.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/window-maximize.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/won-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/svgs/solid/wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/fonts/fontawesome-free-5.13.1-web/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/img/thumbs/home-inside-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listingsApp/static/img/thumbs/home-inside-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumbs/home-inside-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/listingsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/listingsapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listingsApp/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/listingsApp/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/inc/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/inc/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/inc/_topbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/inc/_topbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="listingsApp" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="af322fd2-833a-4196-95e6-56bb9f218e09" />
+  </component>
+  <component name="ProjectId" id="1qOUuYdJCUSg0pfVTDunHHZDQmD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql&#10;sqlite.xerial" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\listingsapp\listingsapp\static\img" />
+      <recent name="C:\Users\User\PycharmProjects\listingsapp\media" />
+      <recent name="C:\Users\User\PycharmProjects\listingsApp" />
+      <recent name="C:\Users\User\PycharmProjects\listingsApp\listingsApp" />
+      <recent name="C:\Users\User\PycharmProjects\listingsApp\realtors\migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\listingsapp\static\js" />
+      <recent name="C:\Users\User\PycharmProjects\listingsapp\static\img" />
+      <recent name="C:\Users\User\PycharmProjects\listingsapp\static\css" />
+      <recent name="C:\Users\User\PycharmProjects\listingsApp\templates\listings" />
+      <recent name="C:\Users\User\PycharmProjects\listingsApp\templates\inc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.listingsapp">
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="listingsapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listingsapp" type="Python.DjangoServer" factoryName="Django server">
+      <module name="listingsapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="listingsapp.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="POSTGRES.CreateComplete" value="CreateIfNotExists=1" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="" />
+      <created>1593249002266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593249002266</updated>
+      <workItem from="1593249005739" duration="4182000" />
+      <workItem from="1593365166269" duration="3345000" />
+      <workItem from="1593368580047" duration="252000" />
+      <workItem from="1593368856412" duration="144000" />
+      <workItem from="1593369170923" duration="353000" />
+      <workItem from="1593414274865" duration="888000" />
+      <workItem from="1593415983637" duration="4870000" />
+      <workItem from="1593428742287" duration="6669000" />
+      <workItem from="1593499335736" duration="4257000" />
+      <workItem from="1593503655487" duration="22665000" />
+      <workItem from="1593535656209" duration="601000" />
+      <workItem from="1593536295266" duration="530000" />
+      <workItem from="1593536866045" duration="167000" />
+      <workItem from="1593537634683" duration="2301000" />
+      <workItem from="1593541584073" duration="547000" />
+      <workItem from="1593542182386" duration="842000" />
+      <workItem from="1593848032376" duration="5463000" />
+      <workItem from="1593855684790" duration="1118000" />
+      <workItem from="1593856830667" duration="1297000" />
+      <workItem from="1593858157535" duration="3059000" />
+      <workItem from="1593861323237" duration="768000" />
+      <workItem from="1593862349148" duration="716000" />
+      <workItem from="1593863872487" duration="1376000" />
+      <workItem from="1593866788974" duration="1635000" />
+      <workItem from="1593868476220" duration="5229000" />
+      <workItem from="1593874546930" duration="15595000" />
+      <workItem from="1593939016055" duration="6543000" />
+      <workItem from="1594018402672" duration="13018000" />
+      <workItem from="1594032632960" duration="1483000" />
+      <workItem from="1594058907835" duration="5434000" />
+      <workItem from="1594064768932" duration="3147000" />
+      <workItem from="1594105465644" duration="9889000" />
+      <workItem from="1594115975299" duration="13055000" />
+      <workItem from="1595011556471" duration="1232000" />
+      <workItem from="1595055039985" duration="2520000" />
+      <workItem from="1595068015256" duration="12394000" />
+      <workItem from="1602843489365" duration="13000" />
+      <workItem from="1604234408420" duration="801000" />
+      <workItem from="1607763545736" duration="6008000" />
+      <workItem from="1607970848517" duration="3940000" />
+      <workItem from="1608056408220" duration="1599000" />
+      <workItem from="1608134259675" duration="8889000" />
+      <workItem from="1608222011891" duration="2465000" />
+      <workItem from="1608226719832" duration="4161000" />
+      <workItem from="1608248512500" duration="283000" />
+      <workItem from="1608368616049" duration="4091000" />
+      <workItem from="1608393088053" duration="3904000" />
+      <workItem from="1608488114003" duration="959000" />
+      <workItem from="1608798943472" duration="2811000" />
+      <workItem from="1608885823882" duration="2025000" />
+      <workItem from="1608889688880" duration="3927000" />
+      <workItem from="1608893692906" duration="1199000" />
+      <workItem from="1608921811665" duration="6982000" />
+      <workItem from="1608974881299" duration="3675000" />
+      <workItem from="1608989212229" duration="785000" />
+      <workItem from="1608990084281" duration="956000" />
+      <workItem from="1609223405481" duration="1830000" />
+      <workItem from="1609343998566" duration="2304000" />
+      <workItem from="1609601225831" duration="2966000" />
+      <workItem from="1609687960675" duration="5534000" />
+      <workItem from="1609698539272" duration="46000" />
+      <workItem from="1609950368615" duration="6679000" />
+      <workItem from="1612600834383" duration="6623000" />
+      <workItem from="1612607575955" duration="24020000" />
+      <workItem from="1612948262557" duration="13000" />
+      <workItem from="1613054681507" duration="8981000" />
+      <workItem from="1613590417978" duration="20000" />
+      <workItem from="1613718087702" duration="973000" />
+      <workItem from="1613733852621" duration="865000" />
+      <workItem from="1613737626787" duration="10975000" />
+      <workItem from="1613906177039" duration="137000" />
+      <workItem from="1613927359636" duration="2605000" />
+      <workItem from="1614272304617" duration="1813000" />
+      <workItem from="1614275901450" duration="135000" />
+      <workItem from="1614276202137" duration="866000" />
+      <workItem from="1614356552349" duration="196000" />
+      <workItem from="1614356996882" duration="283000" />
+      <workItem from="1614367742419" duration="979000" />
+      <workItem from="1615570299666" duration="557000" />
+      <workItem from="1615586630481" duration="929000" />
+      <workItem from="1615708186382" duration="4590000" />
+      <workItem from="1615716442625" duration="1199000" />
+      <workItem from="1615720678321" duration="61000" />
+      <workItem from="1615729044655" duration="1008000" />
+      <workItem from="1615749037826" duration="791000" />
+      <workItem from="1615749920410" duration="4382000" />
+      <workItem from="1615755444159" duration="653000" />
+      <workItem from="1615810317907" duration="2905000" />
+      <workItem from="1615820201379" duration="1216000" />
+      <workItem from="1615926590221" duration="709000" />
+      <workItem from="1615967760994" duration="33000" />
+      <workItem from="1616241240375" duration="36000" />
+      <workItem from="1616241885850" duration="1031000" />
+      <workItem from="1616262234369" duration="2193000" />
+      <workItem from="1616276207083" duration="15000" />
+      <workItem from="1616331389295" duration="2282000" />
+      <workItem from="1616337815181" duration="2219000" />
+      <workItem from="1616663903130" duration="3974000" />
+      <workItem from="1616673413751" duration="2125000" />
+      <workItem from="1616770892177" duration="65000" />
+      <workItem from="1616778696984" duration="986000" />
+      <workItem from="1616784876398" duration="187000" />
+      <workItem from="1616853668498" duration="35000" />
+      <workItem from="1616855314797" duration="655000" />
+      <workItem from="1616857938832" duration="587000" />
+      <workItem from="1616864819691" duration="657000" />
+      <workItem from="1616871037416" duration="325000" />
+      <workItem from="1616950375664" duration="149000" />
+      <workItem from="1617115652866" duration="184000" />
+      <workItem from="1617442576749" duration="6000" />
+      <workItem from="1617892084209" duration="485000" />
+      <workItem from="1618063640275" duration="51000" />
+      <workItem from="1618478304035" duration="155000" />
+      <workItem from="1618481250375" duration="156000" />
+      <workItem from="1619109837973" duration="30000" />
+      <workItem from="1619544356778" duration="36000" />
+      <workItem from="1619544506463" duration="482000" />
+      <workItem from="1620907412666" duration="567000" />
+      <workItem from="1623503660975" duration="1623000" />
+      <workItem from="1623505524692" duration="1034000" />
+      <workItem from="1623507718960" duration="637000" />
+      <workItem from="1623508403825" duration="129000" />
+      <workItem from="1623508836799" duration="58000" />
+      <workItem from="1623508984141" duration="483000" />
+      <workItem from="1623510712759" duration="316000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added pages app">
+      <created>1593451704312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593451704312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added pages app&#10;all authentication added">
+      <created>1595075001767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595075001767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added pages app&#10;all authentication added&#10;Dynamic page titles">
+      <created>1595084417018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595084417018</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <created>1608223935582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608223935582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <created>1608229607995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608229607995</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <created>1608927065747</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608927065747</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <created>1623503978349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623503978350</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Added pages app" />
+    <MESSAGE value="Added pages app&#10;all authentication added" />
+    <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles" />
+    <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="41" key="FileChooserDialogImpl" timestamp="1623511088676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="41" key="FileChooserDialogImpl/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511088676" />
+    <state x="523" y="236" key="Github.ShareDialog" timestamp="1623507267689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="523" y="236" key="Github.ShareDialog/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623507267689" />
+    <state x="59" y="0" key="SettingsEditor" timestamp="1623511114801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="59" y="0" key="SettingsEditor/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511114801" />
+    <state x="325" y="32" width="716" height="664" key="find.popup" timestamp="1623507322343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="325" y="32" width="716" height="664" key="find.popup/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623507322343" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

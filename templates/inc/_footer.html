@@ -1,0 +1,26 @@
+{% load static %}
+<!-- start footer Area -->
+<div class="col-md-12 consult_backToTop mt-2">
+    <div class="footer__item p-5 float-end"><small><a href="#" id="back-to-top"> <i class="fa fa-angle-up" aria-hidden="true"> </i><span> Back To Top</span></a></small></div>
+</div>
+
+<footer class="footer-area section-gap">
+    <div class="container">
+        <div class="row border-top">
+            <div class="col-sm-4 d-flex align-items-stretch p-3">
+                <a title="Share on Facebook" class="customer share" href="#"><i class="fab fa-facebook fa-fw fa-2x"></i></a>
+                <a title="Share on Linkedin" class="customer share" href="#"><i class="fab fa-linkedin-in fa-fw fa-2x"></i></a>
+                <a title="Share on WhatsApp" class="customer share" href="#"><strong><i class="fab fa-whatsapp fa-fw fa-2x"></i></strong></a>
+                <div class="fb-like align-f" data-href="" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="false"></div>
+            </div>
+
+            <div class="col-sm-8 mt-2 mt-sm-0 mt-lg-0 d-flex align-items-stretch p-3">
+                <small class="mt-1"><?php echo SITENAME; ?> Created by <a href="{{ request.scheme }}://{{ request.get_host }}">{{ request.get_host }}</a><span> | {% now "Y" %} all rights reserved</span>
+                    <a class="red" href="{{ request.scheme }}://{{ request.get_host }}"><i class="far fa-copyright"></i></a></small>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+<!-- End footer Area -->    

@@ -1,0 +1,159 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load humanize %}
+{% block title %} | Search listings {% endblock %}
+{% block content %}
+
+      <!-- Showcase -->
+  <section id="showcase-inner" class="showcase-search text-white py-5">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-md-12">
+          <div action="{% url 'search' %}">
+
+         <div class="d-grid gap-2 col-12 mx-auto">
+            <form class="row g-3">
+              <div class="col-md-4 mb-3"><label for="keywords" class="form-label">Keywords</label>
+                <input id="keywords" class="form-control" name="keywords" placeholder="Keyword (Pool, Garage, etc)" type="text">
+              </div>
+
+              <div class="col-md-4 mb-3">
+                <label for="city" class="form-label">City</label>
+                <input id="city" class="form-control" name="city" placeholder="City" type="text">
+              </div>
+
+
+                <div class="col-md-4 mb-3">
+                  <label for="state" class="form-label">State</label>
+                  <select id="state" class="form-control" name="state">
+                    <option disabled="disabled" selected="true">State (All)</option>
+                    {% for key,value in state_choices.items %}
+                    <option value="{{ key }}">{{ value }}</option>
+                    {% endfor %}
+                  </select>
+                </div>
+
+
+
+               <div class="col-md-6 mb-3"><label for="bedrooms" class="form-label">Bedrooms</label>
+                <select id="bedrooms" class="form-control" name="bedrooms">
+                  <option disabled="disabled" selected="true">Bedrooms (Any)</option>
+                    {% for key,value in bedroom_choices.items %}
+                    <option value="{{ key }}">{{ value }}</option>
+                    {% endfor %}
+                </select>
+              </div>
+
+                <div class="col-md-6 mb-3"><label for="price" class="form-label">Price</label>
+                  <select id="price" class="form-control" id="type" name="price">
+                    <option disabled="disabled" selected="true">Max Price (Any)</option>
+                    {% for key,value in price_choices.items %}
+                    <option value="{{ key }}">{{ value }}</option>
+                    {% endfor %}
+                  </select>
+              </div>
+                <div class="d-grid gap-2 col-6 mx-auto">
+                 <button class="btn btn-light mt-4" type="submit">Submit form</button>
+                </div>
+            </form>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Breadcrumb -->
+  <section id="bc" class="mt-3">
+    <div class="container">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/listingsapp">
+              <i class="fas fa-home"></i> Home</a>
+          </li>
+          <li class="breadcrumb-item"><a href="{% url 'listings' %}">
+              <i class="fas fa-home"></i> Listings</a>
+          </li>
+           <li class="breadcrumb-item active">{{ listing.title }}</li>
+        </ol>
+      </nav>
+    </div>
+  </section>
+
+    <!-- Listings -->
+    <section id="listings" class="py-4">
+        <div class="container">
+            <div class="row">
+                {% if listings %}
+                    {% for listing in listings %}
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card listing-preview">
+                                <img class="card-img-top" src="{{ listing.photo_main.url }}" alt="{{ listing.title }}">
+                                <div class="card-img-overlay">
+                                    <h2>
+                                        <span class="badge badge-secondary text-white">$ {{ listing.price | intcomma }}</span>
+                                    </h2>
+                                </div>
+                                <div class="card-body">
+                                    <div class="listing-heading text-center">
+                                        <h4 class="text-primary">{{ listing.title }}</h4>
+                                        <p>
+                                            <i class="fas fa-map-marker text-secondary"></i> {{ listing.city }} {{ listing.state }}
+                                            {{ listing.zipcode }}
+                                        </p>
+                                    </div>
+                                    <hr>
+                                    <div class="row py-2 text-secondary">
+                                        <div class="col-6">
+                                            <i class="fas fa-th-large"></i> Sqft: {{ listing.sqft }}</div>
+                                        <div class="col-6">
+                                            <i class="fas fa-car"></i> Garage: {{ listing.garage }}</div>
+                                    </div>
+                                    <div class="row py-2 text-secondary">
+                                        <div class="col-6">
+                                            <i class="fas fa-bed"></i> Bedrooms: {{ listing.bedrooms }}</div>
+                                        <div class="col-6">
+                                            <i class="fas fa-bath"></i> Bathrooms: {{ listing.bathrooms }}</div>
+                                    </div>
+                                    <hr>
+                                    <div class="row py-2 text-secondary">
+                                        <div class="col-12">
+                                            <i class="fas fa-user"></i> {{ listing.realtor }}</div>
+                                    </div>
+                                    <div class="row text-secondary pb-2">
+                                        <div class="col-6">
+                                            <i class="fas fa-clock"></i> {{ listing.list_date | timesince }}</div>
+                                    </div>
+                                    <hr>
+                                    <a href="{% url "listing" listing.id %}" class="btn btn-primary btn-block">More
+                                        Info</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    {% endfor %}
+
+                {% else %}
+
+                    <div class="col-md-12">
+                        <p>No data available</p>
+                    </div>
+
+                {% endif %}
+
+
+            </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+{% endblock %}

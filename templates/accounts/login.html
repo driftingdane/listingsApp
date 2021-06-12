@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% load humanize %}
+{% block title %} | Account login {% endblock %}
+{% block content %}
+
+    <section>
+        <div class="container-md">
+            <div class="row">
+                <div class="col-md-6 mx-auto">
+                    <div class="card">
+                        <div class="card-header">
+                            Account login
+                        </div>
+                        <div class="card-body">
+                     <!-- Alerts -->
+                    {% include 'inc/_alert_messages.html' %}
+                    <form class="row g-3" action="{% url 'login' %}" method="post">
+                        {% csrf_token %}
+                        <div class="col-md-6 mb-3">
+                            <label for="username" class="form-label">Username</label>
+                            <input name="username" type="text" class="form-control" id="email"
+                                   aria-describedby="emailHelp" required>
+                            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label for="password" class="form-label">Password</label>
+                            <input name="password" type="password" class="form-control" id="password" required>
+                        </div>
+                             <!-- <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                        </div>-->
+                        <div class="col-12">
+                        <button type="submit" class="btn btn-outline-success btn-block">Submit</button>
+                        </div>
+                    </form>
+                </div>
+               </div>
+              </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+{% endblock %}
