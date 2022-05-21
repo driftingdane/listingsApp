@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/migrations/0002_auto_20220521_2249.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listings/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realtors/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/realtors/migrations/0002_auto_20220521_2249.py" beforeDir="false" />
-    </list>
+    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -366,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653169648092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Replaced imagefields with filefields in models">
+      <created>1653170949977</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653170949977</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -434,10 +433,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1311" height="234" key="GridCell.Tab.0.right/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170897415" />
-    <state x="175" y="31" key="Vcs.Push.Dialog.v2" timestamp="1653169668108">
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2" timestamp="1653170968043">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="31" key="Vcs.Push.Dialog.v2/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653169668108" />
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170968043" />
   </component>
   <component name="masterDetails">
     <states>
