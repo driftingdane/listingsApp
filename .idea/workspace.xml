@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="9094800649e29bd043b745754e83811d7e6fc61a" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -142,6 +143,10 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django Server.listingsapp" />
+      <item itemvalue="Python.testing" />
+    </list>
   </component>
   <component name="SQLScriptSettings">
     <option name="matrix">
@@ -382,31 +387,17 @@
     <MESSAGE value="Added pages app&#10;all authentication added" />
     <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles" />
     <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
+    <MESSAGE value="Issues with Pillow install - replaced imagefiled with filefield in models.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Issues with Pillow install - replaced imagefiled with filefield in models.py" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="41" key="FileChooserDialogImpl" timestamp="1623511088676">
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1653168202610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="409" y="41" key="FileChooserDialogImpl/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511088676" />
-    <state x="523" y="236" key="Github.ShareDialog" timestamp="1623511124770">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="523" y="236" key="Github.ShareDialog/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511124770" />
-    <state x="400" y="0" key="Github.UntrackedFilesDialog" timestamp="1623511146859">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="400" y="0" key="Github.UntrackedFilesDialog/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511146859" />
-    <state x="59" y="0" key="SettingsEditor" timestamp="1623511114801">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="59" y="0" key="SettingsEditor/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623511114801" />
-    <state x="325" y="32" width="716" height="664" key="find.popup" timestamp="1623507322343">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="325" y="32" width="716" height="664" key="find.popup/-1920.-312.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1623507322343" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653168202610" />
   </component>
   <component name="masterDetails">
     <states>

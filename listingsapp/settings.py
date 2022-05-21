@@ -24,11 +24,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = ')d=ot5z#2%szpfr4+-p14n++gy8ie#_aef3o0^kso5-3*ro+0a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-
 DEBUG = False
 
-ALLOWED_HOSTS = ["djangolistingsapp.herokuapp.com"]
-
+ALLOWED_HOSTS = ['*']
 # AUTH_USER_MODEL = 'accounts.apps.AccountsConfig'
 
 # Application definition
@@ -59,7 +57,7 @@ MIDDLEWARE = [
 	'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'djangolistingsapp.urls'
+ROOT_URLCONF = 'listingsapp.urls'
 
 TEMPLATES = [
 	{
@@ -78,7 +76,7 @@ TEMPLATES = [
 	},
 ]
 
-WSGI_APPLICATION = 'djangolistingsapp.wsgi.application'
+WSGI_APPLICATION = 'listingsapp.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
