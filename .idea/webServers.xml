@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="efddfb49-16ab-4a0c-ab41-c2a6425cf6e5" name="listingsapp" url="https://craftingdev.com/listingsapp">
-        <fileTransfer rootFolder="/var/www/craftingdev.com/listingsapp" accessType="SFTP" sshConfigId="5f7c7abb-18f6-4be6-a504-90f6bfc648dd" sshConfig="listingsapp">
+        <fileTransfer rootFolder="/var/www/craftingdev.com/listingsapp" accessType="SFTP" host="localhost" port="22" sshConfigId="5f7c7abb-18f6-4be6-a504-90f6bfc648dd" sshConfig="&lt;username&gt;@localhost:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

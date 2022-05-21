@@ -2,8 +2,8 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="185.224.139.235" id="ed808f88-cd85-414e-8e6a-ea0377bd7701" port="22" customName="listingsapp" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="185.224.139.235" id="9574aafa-3357-4e4a-b2ff-7f48138b8c27" port="22" customName="listingsapp" nameFormat="CUSTOM" username="root" />
+      <sshConfig host="localhost" id="5f7c7abb-18f6-4be6-a504-90f6bfc648dd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
     </configs>
   </component>
 </project>

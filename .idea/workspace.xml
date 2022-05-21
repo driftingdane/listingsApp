@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
+    <list default="true" id="aa67d9c5-138f-4265-b79e-479f2253e52a" name="Default Changelist" comment="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitRewordedCommitMessages">
     <option name="onto" value="9094800649e29bd043b745754e83811d7e6fc61a" />
@@ -301,6 +304,8 @@
       <workItem from="1628875441946" duration="1250000" />
       <workItem from="1630133365692" duration="415000" />
       <workItem from="1631206996344" duration="220000" />
+      <workItem from="1653172611907" duration="189000" />
+      <workItem from="1653172849720" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Added pages app">
       <created>1593451704312</created>
@@ -365,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653170949977</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Replaced imagefields with filefields in models">
+      <created>1653171808116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653171808116</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -400,43 +412,67 @@
     <MESSAGE value="Added pages app" />
     <MESSAGE value="Added pages app&#10;all authentication added" />
     <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles" />
-    <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
     <MESSAGE value="Issues with Pillow install - replaced imagefiled with filefield in models.py" />
     <MESSAGE value="Replaced imagefields with filefields in models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced imagefields with filefields in models" />
+    <MESSAGE value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pages app&#10;all authentication added&#10;Dynamic page titles&#10;Created mail&#10;contacts app" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Deployment" timestamp="1653172869748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Deployment/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172869748" />
+    <state x="155" y="0" key="#SSH_Configurations" timestamp="1653172866253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="155" y="0" key="#SSH_Configurations/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172866253" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1653168202610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653168202610" />
-    <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1653168400880">
+    <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1653172704672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="410" y="59" key="FileChooserDialogImpl/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653168400880" />
-    <state width="1311" height="234" key="GridCell.Tab.0.bottom" timestamp="1653170897415">
+    <state x="410" y="59" key="FileChooserDialogImpl/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172704672" />
+    <state x="523" y="236" key="Github.ShareDialog" timestamp="1653172728811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="234" key="GridCell.Tab.0.bottom/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170897415" />
-    <state width="1311" height="234" key="GridCell.Tab.0.center" timestamp="1653170897415">
+    <state x="523" y="236" key="Github.ShareDialog/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172728811" />
+    <state width="1311" height="234" key="GridCell.Tab.0.bottom" timestamp="1653172460763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="234" key="GridCell.Tab.0.center/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170897415" />
-    <state width="1311" height="234" key="GridCell.Tab.0.left" timestamp="1653170897415">
+    <state width="1311" height="234" key="GridCell.Tab.0.bottom/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172460763" />
+    <state width="1311" height="234" key="GridCell.Tab.0.center" timestamp="1653172460763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="234" key="GridCell.Tab.0.left/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170897415" />
-    <state width="1311" height="234" key="GridCell.Tab.0.right" timestamp="1653170897415">
+    <state width="1311" height="234" key="GridCell.Tab.0.center/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172460763" />
+    <state width="1311" height="234" key="GridCell.Tab.0.left" timestamp="1653172460762">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1311" height="234" key="GridCell.Tab.0.right/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170897415" />
-    <state x="175" y="31" key="Vcs.Push.Dialog.v2" timestamp="1653170968043">
+    <state width="1311" height="234" key="GridCell.Tab.0.left/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172460762" />
+    <state width="1311" height="234" key="GridCell.Tab.0.right" timestamp="1653172460763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="31" key="Vcs.Push.Dialog.v2/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653170968043" />
+    <state width="1311" height="234" key="GridCell.Tab.0.right/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172460763" />
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2" timestamp="1653171984050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="31" key="Vcs.Push.Dialog.v2/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653171984050" />
+    <state x="436" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653172205665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172205665" />
+    <state x="437" y="193" key="git4idea.rebase.GitRebaseDialog" timestamp="1653171966382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="193" key="git4idea.rebase.GitRebaseDialog/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653171966382" />
+    <state x="356" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1653172261469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="240" key="git4idea.remote.GitConfigureRemotesDialog/1366.-165.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1653172261469" />
   </component>
   <component name="masterDetails">
     <states>
