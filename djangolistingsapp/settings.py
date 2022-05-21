@@ -57,7 +57,7 @@ MIDDLEWARE = [
 	'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'listingsapp.urls'
+ROOT_URLCONF = 'djangolistingsapp.urls'
 
 TEMPLATES = [
 	{
@@ -76,7 +76,7 @@ TEMPLATES = [
 	},
 ]
 
-WSGI_APPLICATION = 'listingsapp.wsgi.application'
+WSGI_APPLICATION = 'djangolistingsapp.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
